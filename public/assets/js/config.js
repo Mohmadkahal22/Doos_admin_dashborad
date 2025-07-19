@@ -1,6 +1,6 @@
 // config.js
 window.API_CONFIG = {
-    BASE_URL: 'http://highleveltecknology.com/doos/api', 
+    BASE_URL: 'http://highleveltecknology.com/doos', 
     ENDPOINTS: {
         LOGIN: '/api/login', 
     },
